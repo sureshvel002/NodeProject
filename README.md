@@ -14,24 +14,22 @@ A basic Quiz Application built using **Node.js**, **Express**, and **EJS** Templ
 ---
 
 ## 🚀 How to Run This Project Locally
-
-### ✅ 1. Clone the Repository
+ ✅ 1. Clone the Repository
 
 ```bash
 git clone https://github.com/expertdeveloperit/node-quiz-app.git
-cd node-quiz-app
 
-### ✅ 2. Install Dependencies
+✅ 2. Install Dependencies
 
 Make sure you have Node.js installed (version 14 or above is recommended)
 npm install
 
-### ✅ 3. Start the Server
+✅ 3. Start the Server
 
 npm start
 By default, the app runs on http://localhost:3000
 
-### Project Structure
+Project Structure
 
 node-quiz-app/
 ├── public/             # Static files (CSS, images, etc.)
